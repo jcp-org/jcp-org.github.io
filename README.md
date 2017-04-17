@@ -6,4 +6,4 @@ This document describes the policies and procedures for the repository creation 
 * [Request a repository](Request_Repo.md)
 * [Transfer content from java.net](docs/Transfer_from_java.net.md)
 
-![Java Community Process](./images/JSR-lifecycle.jpg)
+![Java Community Process](./img/JSR-lifecycle.jpg)
