@@ -1,7 +1,7 @@
 # Preparing Your GitHub Account
 
 
-* If you don't have a GitHub account, create an individual one with the Free plan.
+* If you don't have a GitHub account, [create an individual one with the Free plan](https://github.com/).
     * You can use your personal email. 
     * Please do not create a secondary new account specifically for JCP GitHub organization.
 
@@ -18,5 +18,5 @@
 
 * Wait for the invitation from JCP GitHub Organization
     * Accept the invitation
-    * Publicize your membership as instructed
+    * [Publicize your membership as instructed](https://help.github.com/articles/publicizing-or-hiding-organization-membership/)
     * Notify back to pmo@jcp.org
