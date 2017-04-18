@@ -15,9 +15,9 @@ After that date please contact java.net admins to get the content of your projec
 
    * To import the content to the GitGub repository just clone newly created repository `git clone <rpository path>` and add all your content using usual git commands:
      ``` 
-	 git add <files>
-         git commit <files> -m <message>
-         git push
+        git add <files>
+        git commit <files> -m <message>
+        git push
      ```
 
    
