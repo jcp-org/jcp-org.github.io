@@ -27,6 +27,6 @@ After that date please contact java.net admins to get the content of your projec
 
 2. __JIRA Issues__
    
-   * For import of JIRA issues into gitHub issue tracker you can use [jira-github-issues](https://github.com/doctrine/jira-github-issues) converter.
-     JIRA export feature of this tracker is implemented via JIRA REST API and will only work while java.net JIRA is online. (until 28th of April 2017)
+   * For import of JIRA issues into GitHub issue tracker you can use [jira-github-issues](https://github.com/doctrine/jira-github-issues) converter.
+     JIRA export feature of this converter is implemented via JIRA REST API and will only work while java.net JIRA is online. (until 28th of April 2017)
     
