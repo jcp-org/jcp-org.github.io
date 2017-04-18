@@ -1,8 +1,8 @@
 # Content transfer from java.net
 
-Here are some technical guidelines regarding transfer of the availbale content from the java.net site to JCP GitHub Organization.
+Here are some technical guidelines for transfer of the availbale content from the java.net site to JCP GitHub Organization.
 
-__ATTENTION:__ All these instructions for exporting content from java.net are applicable while java.net is online - until 28th of April. 
+__ATTENTION:__ All these instructions for exporting content from java.net are applicable while java.net is online - until 28th of April 2017. 
 After that date please contact java.net admins to get the content of your projects.
 
 1. __Files in the donwload area__
@@ -19,5 +19,14 @@ After that date please contact java.net admins to get the content of your projec
         git commit <files> -m <message>
         git push
      ```
+  
+   * HTML files. GitHub doesn't properly set the content type when HTML file is viewed from web interface. 
+     So it's recommended to convert all HTML files into marked down (.md) files for proper presentation.
+     You can use this converter [to-markdown](https://github.com/domchristie/to-markdown)
+     
 
+2. __JIRA Issues__
    
+   * For import of JIRA issues into gitHub issue tracker you can use [jira-github-issues](https://github.com/doctrine/jira-github-issues) converter.
+     JIRA export feature of this tracker is implemented via JIRA REST API and will only work while java.net JIRA is online. (until 28th of April 2017)
+    
