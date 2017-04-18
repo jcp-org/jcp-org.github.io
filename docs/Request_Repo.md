@@ -1,4 +1,4 @@
-# Request new repository in the Java Community Process (JCP) GitHub organization
+# Request new repository in the JCP GitHub organization
 
 This document describes the process of requesting new repository in the Java Community Process (JCP) GtHub organization.
 
