@@ -12,4 +12,15 @@ and clone them. Make sure to prepare the following to get the approval to place 
    * Test GitHub repository with your content. It can be any private reporitory on the GitHub. If you are an Oracle employee, please contact pmo@jcp.org for details about setup of such repository. 
    * Send all this information to the pmo@jcp.org for review.
 
-3. When the content is reviewed by the JCP PMO you existing repository can be transfered to the JCP GitHub organization. 
+
+3. JCP GitHub Organization Repository Requirements
+
+   * Naming standard
+
+      * The repository name must be all lowercase, and use dashes to indicate a space, and the name must be specific to the project
+      * The repository name must be aligned with the project goal or product it represents.
+      * The repository name will go through review by the JCP PMO Team
+      * Repositories intending to have samples only repos must be named with -sample(s) suffix.
+
+
+4. When the content is reviewed by the JCP PMO you existing repository can be transfered to the JCP GitHub organization. 
