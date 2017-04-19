@@ -23,4 +23,17 @@ and clone them. Make sure to prepare the following to get the approval to place 
       * Repositories intending to have samples only repos must be named with -sample(s) suffix.
 
 
+   * Contain a README.md
+
+      * The repository must include a detailed README.md with information about the projects intent and clear opportunities for engagement
+      * Must live in the root directory. The contents of the README.md will be displayed on the project's Github page
+        If you need help with the markup please refer to the official GitHub help page [5].
+      * How to contribute section, linking to the CONTRIBUTING.md file (see below)
+
+   * Contain a CONTRIBUTING.md
+
+      * A detailed instruction on how to contribute with the project, when applied
+
+
+
 4. When the content is reviewed by the JCP PMO you existing repository can be transfered to the JCP GitHub organization. 
