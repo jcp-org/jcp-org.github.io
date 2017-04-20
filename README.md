@@ -11,7 +11,7 @@ Examples of such content include:
 * Source code for JSR usage examples
 * RI/TCK source code (In some cases)
 
-For getting repository for your project please read instrucions below and contact JCP PMO team (pmo@jcp.org)
+For getting repository for your project please read instructions below and contact JCP PMO team (pmo@jcp.org)
 
 * [Prepare you GitHub account](docs/GitHub_Account.md)
 * [Request a repository](docs/Request_Repo.md)
