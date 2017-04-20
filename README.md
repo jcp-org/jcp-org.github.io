@@ -2,7 +2,7 @@
 
 This document describes the policies and procedures for the repository creation in the JCP GitHub Organization
 
-__Note:__ This workspace is dedicated only for the content related to the JSRs development via JCP Program. 
+__This workspace is dedicated only for the content related to the JSRs development via JCP Program.__
 
 Examples of such content include:
 
