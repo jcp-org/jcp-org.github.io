@@ -33,12 +33,12 @@ and clone them. Make sure to prepare the following to get the approval to place 
 
    * __Contain a LICENSE.md__
   
-      * Project should have on of the Open Source licenses. If Open Source license is not applicable for the project it cannot be placed into this workspace.
+      * Project should have one of the Open Source licenses. If Open Source license is not applicable for the project it cannot be placed into this workspace.
       * License file should be placed in the repository root location
 
    * __Contain a CONTRIBUTING.md__
 
-      * The link to thi sfile is provided automatically by GitHub when user wants to create an issue or pull requests
+      * The link to this file is provided automatically by GitHub when user wants to create an issue or pull requests
       * This file should contain detailed instruction on how to contribute to this project
       * It eiher can include the overall participation terms or contain a link to the appropriate participation agreement if it's the case.
 
