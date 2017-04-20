@@ -28,7 +28,7 @@ and clone them. Make sure to prepare the following to get the approval to place 
 
       * The repository must include a detailed README.md with information about the projects intent and clear opportunities for engagement
       * Must live in the root directory. The contents of the README.md will be displayed on the project's Github page
-        If you need help with the markup please refer to the official GitHub help page [5].
+        If you need help with the markup please refer to the official [GitHub help page](https://guides.github.com/features/mastering-markdown/).
       * How to contribute section, linking to the CONTRIBUTING.md file (see below)
 
    * __Contain a LICENSE.md__
