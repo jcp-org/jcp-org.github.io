@@ -4,10 +4,6 @@ This document describes the policies and procedures for the repository creation 
 
 __This workspace is dedicated only for the content related to the JSRs development via JCP Program.__
 
-<div class="alert note">
-    dfasdfasfasf
-</div>
-
 Examples of such content include:
 
 * Specifications of the JSRs
