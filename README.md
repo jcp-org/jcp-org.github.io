@@ -2,6 +2,9 @@
 
 This document describes the policies and procedures for the repository creation in the JCP organization on GitHub
 
+<div>
+<span style="color:red;">Note</span>
+</div>
 * [Prepare you GitHub account](docs/GitHub_Account.md)
 * [Request a repository](docs/Request_Repo.md)
 * [Content transfer from java.net](docs/Transfer_from_java.net.md)
