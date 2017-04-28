@@ -1,22 +1,23 @@
 # Migrating from java.net into JCP GitHub
 
 ## Background
-With java.net EOL project leads may decide to migrate projects to another location on of which is this JCP GitHub organization.
+With java.net EOL project leads may decide to migrate projects to another location like this JCP GitHub organization.
 If you need to learn about GitHub, start reading these [https://guides.github.com/](Quick Introduction pages).
 
 
 ## java.net project data
-Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset You may also request a redirect to a new homepage of your choice.  
-Finally, the old Java.net home page redirects to https://community.oracle.com/community/java now. If you need to log in to Java.net you can do so at https://java.net/people/login.
-If you have any questions please ask in the discussion area of the request page here - https://community.oracle.com/community/java/javanet-forge-sunset, or send a note to communitymanager@java.net. 
+* Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset 
+* You may also request a redirect to a new homepage of your choice.  
+* The old Java.net home page redirects to https://community.oracle.com/community/java now.
+* If you need to log in to Java.net you can do so at https://java.net/people/login.
+* If you have any questions please ask in the discussion area of the request page here - https://community.oracle.com/community/java/javanet-forge-sunset, or send a note to communitymanager@java.net. 
 
 
 ## Repositories
-Java.net projects may have zero or more repositories. GitHub only hosts repositories.
-It provides exactly one repository for each java.net project analog.
-Each repository includes an optional issue tracker, social tools (updates, readme, documentation, etc.) and the location for your code.
-Because of this, some changes will be required for each migrating project to GitHub.
-One repository must be designated as the "project replacement" repository. This repository should host all the material for your project.
+* Java.net projects may have zero or more repositories. GitHub only hosts repositories.
+* It provides exactly one repository for each java.net project analog.
+* Each repository includes an optional issue tracker, social tools (updates, readme, documentation, etc.) and the location for your code.
+* Because of this, some changes will be required for each migrating project to GitHub. One repository must be designated as the "project replacement" repository. This repository should host all the material for your project.
 
 
 ## Downloads
