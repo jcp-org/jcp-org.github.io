@@ -1,4 +1,16 @@
-# Content transfer from java.net
+# Migrating from java.net into JCP GitHub
+
+## Background
+With java.net EOL project leads may decide to migrate projects to another location on of which is this JCP GitHub organization.
+If you need to learn about GitHub, start reading these [https://guides.github.com/](Quick Introduction pages).
+
+## java.net project data
+Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset
+You may also request a redirect to a new homepage of your choice.  
+Finally, the old Java.net home page redirects to community.oracle.com/community/java now. If you need to log in to Java.net you can do so at https://java.net/people/login.
+If you have any questions please ask in the discussion area of the request page here - https://community.oracle.com/community/java/javanet-forge-sunset, or send a note to communitymanager@java.net. 
+
+
 
 Here are some technical guidelines for transfer of the availbale content from the java.net site to JCP GitHub Organization.
 

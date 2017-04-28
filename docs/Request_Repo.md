@@ -12,7 +12,7 @@ and clone them. Make sure to prepare the following to get the approval to place 
    * The License under which the content is shared
    * Test GitHub repository with your content:
       * If you are an Oracle employee, please contact pmo@jcp.org for details about setup of such repository. 
-      * if you are not an Oracle employee you can prepare a repository under your GitHub account
+      * If you are not an Oracle employee you can prepare a repository under your GitHub account
    * Send all this information to the pmo@jcp.org for review.
 
 
