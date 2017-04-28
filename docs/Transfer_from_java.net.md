@@ -4,12 +4,19 @@
 With java.net EOL project leads may decide to migrate projects to another location on of which is this JCP GitHub organization.
 If you need to learn about GitHub, start reading these [https://guides.github.com/](Quick Introduction pages).
 
+
 ## java.net project data
-Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset
-You may also request a redirect to a new homepage of your choice.  
-Finally, the old Java.net home page redirects to community.oracle.com/community/java now. If you need to log in to Java.net you can do so at https://java.net/people/login.
+Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset You may also request a redirect to a new homepage of your choice.  
+Finally, the old Java.net home page redirects to https://community.oracle.com/community/java now. If you need to log in to Java.net you can do so at https://java.net/people/login.
 If you have any questions please ask in the discussion area of the request page here - https://community.oracle.com/community/java/javanet-forge-sunset, or send a note to communitymanager@java.net. 
 
+
+## Repositories
+Java.net projects may have zero or more repositories. GitHub only hosts repositories.
+It provides exactly one repository for each java.net project analog.
+Each repository includes an optional issue tracker, social tools (updates, readme, documentation, etc.) and the location for your code.
+Because of this, some changes will be required for each migrating project to GitHub.
+One repository must be designated as the "project replacement" repository. This repository should host all the material for your project.
 
 
 Here are some technical guidelines for transfer of the availbale content from the java.net site to JCP GitHub Organization.
@@ -19,9 +26,9 @@ After that date please contact java.net admins to get the content of your projec
 
 
 
-1. __Files in the donwload area__
+## Files in the donwload area
 
-   * To download the files from downloads area of java.net you can just use `wget` command:
+   * While java.net is online you can download all your content `wget` command:
    ```
 	wget -r --no-parents https://java.net/downloads/$project_name
    ``` 
@@ -39,8 +46,25 @@ After that date please contact java.net admins to get the content of your projec
      You can use this converter [to-markdown](https://github.com/domchristie/to-markdown)
      
 
-2. __JIRA Issues__
+## Issues
    
    * For import of JIRA issues into GitHub issue tracker you can use [jira-github-issues](https://github.com/doctrine/jira-github-issues) converter.
-     JIRA export feature of this converter is implemented via JIRA REST API and will only work while java.net JIRA is online. (until 28th of April 2017)
+     JIRA export feature of this converter is implemented via JIRA REST API and will only work while java.net JIRA is online. (until 12th of May 2017)
+
+   * Another possible option is to use JIM comverter https://github.com/brianoliver/jim
+
+
+
+## Wikis
+
+
+## E-mail
+
+At the present time there is no direct replacement for java.net mailing lists.
+
+
+## Maven artifacts
+ 
+Java.net used to provide an authentication interface for project users to publish to maven.central.
+There is no replacement fro this feature
     
