@@ -10,7 +10,9 @@ and clone them. Make sure to prepare the following to get the approval to place 
 
    * Approvals from the company management & legal to share the content to the public (if applicable)
    * The License under which the content is shared
-   * Test GitHub repository with your content. It can be any private reporitory on the GitHub. If you are an Oracle employee, please contact pmo@jcp.org for details about setup of such repository. 
+   * Test GitHub repository with your content:
+      * If you are an Oracle employee, please contact pmo@jcp.org for details about setup of such repository. 
+      * if you are not an Oracle employee you can prepare a repository under your GitHub account
    * Send all this information to the pmo@jcp.org for review.
 
 

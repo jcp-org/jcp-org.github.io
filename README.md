@@ -15,6 +15,6 @@ For getting repository for your project please read instructions below and conta
 
 * [Prepare you GitHub account](docs/GitHub_Account.md)
 * [Request a repository](docs/Request_Repo.md)
-* [Content transfer from java.net](docs/Transfer_from_java.net.md)
+* [Migrating from java.net into JCP GitHub](docs/Transfer_from_java.net.md)
 
 ![Java Community Process](./img/JSR-lifecycle.jpg)

@@ -2,8 +2,10 @@
 
 Here are some technical guidelines for transfer of the availbale content from the java.net site to JCP GitHub Organization.
 
-__ATTENTION:__ All these instructions for exporting content from java.net are applicable while java.net is online - until 28th of April 2017. 
+__ATTENTION:__ All instructions for exporting content from java.net are applicable while java.net is online - until 12th of May 2017. 
 After that date please contact java.net admins to get the content of your projects.
+
+
 
 1. __Files in the donwload area__
 
