@@ -24,7 +24,7 @@ __The planned Java.net closing date is the 12th of May 2017__
 
 ## Downloads
 
-   * While java.net is online you can download all your content `wget` command:
+   * While java.net is online you can download all your content via `wget` command:
    ```
 	wget -r --no-parents https://java.net/downloads/$project_name
    ``` 
