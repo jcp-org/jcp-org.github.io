@@ -19,14 +19,7 @@ Because of this, some changes will be required for each migrating project to Git
 One repository must be designated as the "project replacement" repository. This repository should host all the material for your project.
 
 
-Here are some technical guidelines for transfer of the availbale content from the java.net site to JCP GitHub Organization.
-
-__ATTENTION:__ All instructions for exporting content from java.net are applicable while java.net is online - until 12th of May 2017. 
-After that date please contact java.net admins to get the content of your projects.
-
-
-
-## Files in the donwload area
+## Downloads
 
    * While java.net is online you can download all your content `wget` command:
    ```
@@ -56,7 +49,7 @@ After that date please contact java.net admins to get the content of your projec
 
 
 ## Wikis
-
+GitHub does have a wiki system. Project owners may want to use this system
 
 ## E-mail
 
