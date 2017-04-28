@@ -4,6 +4,8 @@
 With java.net EOL project leads may decide to migrate projects to another location like this JCP GitHub organization.
 If you need to learn about GitHub, start reading these [https://guides.github.com/](Quick Introduction pages).
 
+__The planned Java.net closing date is the 12th of May 2017__
+
 
 ## java.net project data
 * Tarball of project assets can be requested here: https://community.oracle.com/community/java/javanet-forge-sunset 
