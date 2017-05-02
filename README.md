@@ -14,7 +14,7 @@ Examples of such content include:
 For getting repository for your project please read instructions below and contact JCP PMO team (pmo@jcp.org)
 
 * [Prepare your GitHub account](docs/GitHub_Account.md)
-* [Request a repository](docs/Request_Repo.md)
+* [Request a new repository](docs/Request_Repo.md)
 * [Migrating from java.net into JCP GitHub](docs/Transfer_from_java.net.md)
 
 ![Java Community Process](./img/JSR-lifecycle.jpg)
