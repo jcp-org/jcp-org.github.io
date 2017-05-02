@@ -1,2 +1,2 @@
-This project is the documentatioin project for teh JCP gitHub Organization.
+This project is the documentatioin project for the JCP GitHub Organization.
 No contributions will be accepted.
