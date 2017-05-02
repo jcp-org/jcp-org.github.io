@@ -2,7 +2,7 @@
 
 ## Background
 With java.net EOL project leads may decide to migrate projects to another location like this JCP GitHub organization.
-If you need to learn about GitHub, start reading these [https://guides.github.com/](Quick Introduction pages).
+If you need to learn about GitHub, start reading these [Quick Introduction pages](https://guides.github.com/).
 
 __The planned Java.net closing date is the 12th of May 2017__
 

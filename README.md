@@ -13,7 +13,7 @@ Examples of such content include:
 
 For getting repository for your project please read instructions below and contact JCP PMO team (pmo@jcp.org)
 
-* [Prepare you GitHub account](docs/GitHub_Account.md)
+* [Prepare your GitHub account](docs/GitHub_Account.md)
 * [Request a repository](docs/Request_Repo.md)
 * [Migrating from java.net into JCP GitHub](docs/Transfer_from_java.net.md)
 
