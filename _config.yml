@@ -8,7 +8,7 @@ title:               'JCP on GitHub'
 tagline:             'JCP on GitHub'
 description:         'Documentation about setup of the Project in the JCP area on GitHub'
 url:                 https://jcp.org
-baseurl:             '/'
+baseurl:             
 paginate:            5
 
 # About/contact
