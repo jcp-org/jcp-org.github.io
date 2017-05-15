@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               'JCP on GitHub'
+tagline:             'JCP on GitHub'
+description:         'Documentation about setup of the Project in the JCP area on GitHub'
+url:                 https://jcp.org
+baseurl:             '/'
+paginate:            5
+
+# About/contact
+author:
+  name:              
+  url:               
+  email:             
+
+# Custom vars
+version:             1.0.0
