@@ -1,4 +1,7 @@
-# Java Community Process (JCP) on GitHub
+---
+layout: page
+title: Java Community Process (JCP) on GitHub
+---
 
 This document describes the policies and procedures for creating a repository in the JCP GitHub Organization
 
