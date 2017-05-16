@@ -16,6 +16,3 @@ For creating a repository for your project please read the instructions below AN
 * [Prepare your GitHub account](docs/GitHub_Account.md)
 * [Request a new repository](docs/Request_Repo.md)
 
-If you have a project on java.net that you'd like to migrate to GitHub
-
-* [Migrating from java.net to JCP GitHub](docs/Transfer_from_java.net.md)
